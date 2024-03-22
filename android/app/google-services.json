@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419842971837",
+    "project_id": "project-firebase-bfd00",
+    "storage_bucket": "project-firebase-bfd00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419842971837:android:5415aad364bf8113e8ffd4",
+        "android_client_info": {
+          "package_name": "com.example.daftar_belanja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWfrTndTjGTc0YzRGDGMvufzSISr0msDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
